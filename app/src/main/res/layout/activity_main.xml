@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/jalnan"
         android:gravity="center_vertical|center_horizontal"
-        android:text="댕댕이어리"
+        android:text="댕댕이어리!"
         android:textColor="#454545"
         android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
